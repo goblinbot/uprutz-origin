@@ -1,0 +1,16 @@
+{
+    "name": "uPrutz Origin",
+    "description": "Gezellige Geluidjes (of toch niet)",
+    "version": "1.0",
+    "manifest_version": 3,
+    "content_scripts": [
+        {
+            "js": [
+                "scripts/content.js"
+            ],
+            "matches": [
+                "https://www.prutz-lan.nl/*"
+            ]
+        }
+    ]
+}

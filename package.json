@@ -1,0 +1,19 @@
+{
+  "name": "uprutz-origin",
+  "version": "1.33.7",
+  "description": "Lannen maar dan anders",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goblinbot/uprutz-origin.git"
+  },
+  "author": "Thijs Boerma GGBOT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goblinbot/uprutz-origin/issues"
+  },
+  "homepage": "https://github.com/goblinbot/uprutz-origin#readme"
+}
